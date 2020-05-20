@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="title_activity_hom">HomActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_training">Daftar Training</string>
+    <string name="title_tambah_training">tambah Training</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nama_training">Nama Training</string>
+    <string name="tipe_training">Tipe Training</string>
+    <string name="kuota_training">Kuota Training</string>
+    <string name="harga_training">Harga Training</string>
+    <string name="tanggal_training">Tanggal Training</string>
+    <string name="status_training">Status Training</string>
+    <string name="aktifkan">aktifkan</string>
+    <string name="image">image</string>
+    <string name="kode_training">Kode Training</string>
+    <string name="gambar_link_training">Gambar Link Training</string>
+    <string name="simpan">Simpan</string>
+    <string name="delete">Delete</string>
+</resources>

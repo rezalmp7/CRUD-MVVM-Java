@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_image_training_detail" type="id" />
+    <item name="tv_nama_training_detail" type="id" />
+    <item name="tv_tipe_training_detail" type="id" />
+    <item name="tv_kuota_training_detail" type="id" />
+    <item name="tv_harga_training_detail" type="id" />
+    <item name="tv_tanggal_training_detail" type="id" />
+    <item name="tv_status_training_detail" type="id" />
+    <item name="btn_delete_training_detail" type="id" />
+</resources>
